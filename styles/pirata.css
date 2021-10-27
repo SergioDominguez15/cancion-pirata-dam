@@ -1,0 +1,21 @@
+/******* HOJA DE ESTILO DE LA WEB DE LA CANCION DEL PIRATA **********/
+
+        @font-face {
+                font-family: pirata; /* el nombre que yo quiera */
+                src: url(../Fonts/Italianno-Regular.ttf);
+        }
+
+
+body {background-image: url("../images/background\ pirate.jpg");
+        /*** background-size:; sirve para aumentar o disminuir el tamaño del fondo ****/
+        padding: 0;
+        margin: 0;}
+
+#container {background-color: rgba(255, 255, 255, 0.699);
+            width: 50%;
+            margin:auto;
+            padding: 10px;
+            font-family: pirata;
+            font-size: 210%;
+            text-align: center;}
+            
