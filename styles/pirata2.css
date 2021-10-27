@@ -16,8 +16,8 @@
                 font-size: 1.6em;
                 box-shadow: 80px, 80px, 60px rgb(73,33,22);}
 
-    #poema {background-color: rgba(226, 219, 114, 0.877);
+    #poema {background-color: rgba(252, 252, 202, 0.877);
             width: 240px ; /* en este caso muy particular me conviene fijar el ancho en pixeles porque protege el ancho de lineas del poema y no rompe los versos. Además 300px caben en el ancho de cualquier movil */
             margin: 20px;
             padding: 10px;
-        }
+            }
